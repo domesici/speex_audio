@@ -1,0 +1,17 @@
+<package>
+  <description brief="speex_audio">
+
+     speex_audio
+
+  </description>
+  <author>domenico</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/speex_audio</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

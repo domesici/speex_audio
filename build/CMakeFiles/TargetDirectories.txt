@@ -1,0 +1,16 @@
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/clean-test-results.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/rosbuild_precompile.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/rospack_genmsg.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/rospack_gensrv.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/speex_node.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/test.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/test-future.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/test-results.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/test-results-run.dir
+/home/robotica/workspace/ros/domenico/speex_audio/build/CMakeFiles/tests.dir

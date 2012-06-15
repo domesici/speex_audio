@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robotica/workspace/ros/domenico/speex_audio/src/qos_audio.cpp
+speex/speex.h
+-
+stdio.h
+-
+stdlib.h
+-
+
